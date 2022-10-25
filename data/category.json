@@ -1,38 +1,34 @@
 [
     {
       "id": "01",
-      "name": "Html "
+      "name": "Web Design "
     },
     {
       "id": "02",
-      "name": "Css "
+      "name": "Web Development "
     },
     {
       "id": "03",
-      "name": "Bootstrap "
+      "name": " Softwere Development "
     },
     {
       "id": "04",
-      "name": " Tailwind css "
+      "name": " UI / UX Design "
     },
     {
       "id": "05",
-      "name": " javascript "
+      "name": " Digital Marketing  "
     },
     {
       "id": "06",
-      "name": "React js "
+      "name": " Graphics Design "
     },
     {
       "id": "07",
-      "name": "Node js"
+      "name": " Financial Management  "
     },
     {
       "id": "08",
-      "name": "Express js "
-    },
-    {
-        "id": "09",
-        "name": " Firebase Auth "
-      }
+      "name": "Word Press Development "
+    }
   ]
