@@ -69,7 +69,7 @@
       "_id": "6357eea4f5818bd8e84a6e54",
       "category_id": "02",
       "index": 7,
-      "photoURL": "http://placehold.it/32x32",
+      "photoURL": " https://www.codingbytes.com/wp-content/uploads/2022/03/full-stack-web-development.jpg",
       "name": " Web Development",
       "title": " Full Stac Web  Development  ",
       "discription": " What is a Full Stack Engineer? Full stack technology refers to the entire depth of a computer system application, and full stack developers straddle two separate web development domains: the front end and the back end.The front end includes everything that a client, or site viewer, can see and interact with. By contrast, the back end refers to all the servers, databases, and other internal architecture that drives the application; usually, the end-user never interacts with this realm directly. The easiest way to put the full stack into perspective is to imagine a restaurant. The front end encompasses the well-decorated, comfortable seating areas where visitors enjoy their food. "
@@ -87,10 +87,10 @@
       "_id": "6357eea4c5e590d0f5575df1",
       "category_id": "05",
       "index": 9,
-      "photoURL": "http://placehold.it/32x32",
-      "name": "Pope Woodard",
-      "title": "<ReferenceError: anything is not defined>",
-      "discription": "<ReferenceError: anything is not defined>"
+      "photoURL": " https://img.freepik.com/free-vector/digital-marketing-landing-page_33099-1726.jpg?w=2000",
+      "name": "Digital Marketing ",
+      "title": " Advance digital Marketing ",
+      "discription": "Digital marketing is the marketing and advertising of a business, person, product, or service using online channels, electronic devices, and digital technologies. A few examples of digital marketing include social media, email, pay-per-click (PPC), search engine optimization (SEO), and more.A traditional marketing campaign, for example, may use billboards, print ads, and mailers, while a digital marketing campaign may use social media, blog posts, and email to promote a business and its offerings."
     },
     {
       "_id": "6357eea4c720517e0c394641",
