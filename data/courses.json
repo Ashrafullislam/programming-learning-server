@@ -1,94 +1,206 @@
-
 [
     {
-      "id": "6357d00aa3bd3892eba711ee",
+      "_id": "6357eea48c1eeed23c254a62",
       "category_id": "01",
       "index": 0,
-      "photoURL": "http://placehold.it/32x32",
-      "name": "Html ",
-      "total_view": 300,
-      "title": "Learn Html Whice called Markup Language ",
-      "discription": "<ReferenceError: anything is not defined>"
-
+      "price": 22 ,
+      "photoURL": "https://puminatidigital.com/wp-content/uploads/2021/05/30-1170x700.png ",
+      "name": " Web Design ",
+      "title": "  Web Design In Html, Css, Bootstrap  ",
+      "discription": " What is Web Design ? > Web design refers to the design  of websites that are displayed on the internet. It usually refers to the user experience aspects of website development rather than software development. Web design used to be focused on designing websites for desktop browsers; however, since the mid-2010s, design for mobile and tablet browsers has become ever-increasingly important.A web designer works on the appearance, layout, and, in some cases, content of a website. Appearance, for instance, relates to the colors, font, and images used. Layout refers to how information is structured and categorized. A good web design is easy to use, aesthetically pleasing, and suits the user group and brand of the website. Many webpages are designed with a focus on simplicity, so that no extraneous information and functionality that might distract or confuse users appears. As the keystone of a web designer’s output is a site that wins and fosters the trust of the "
     },
+
     {
-      "id": "6357d00a5c8050bffb3d3d32",
+      "_id": "6357eea4044bae8747f0123c",
       "category_id": "02",
       "index": 1,
-      "photoURL": "http://placehold.it/32x32",
-      "name": "Css ",
-      "total_view": 400,
-      "title": "Learn Css Whice is Cascading StyleSheet ",
-      "discription": "<ReferenceError: anything is not defined>"
+      "photoURL": " https://images.anytask.com/e9c9d4f9293ff5ad/gig/kphzjmbh4g9n1jds1o4a.png",
+      "name": " Web Development",
+      "title": " Fron End Web Development ",
+      "discription": "Welcome to our front-end web developer learning pathway! .Here we provide you with a structured course that will teach you all you need to know to become a front-end web developer. Work through each section, learning new skills (or improving existing ones) as you go along. Each section includes exercises and assessments to test your understanding before you move forward.You don't need any previous knowledge to start this course. All you need is a computer that can run modern web browsers, an internet connection, and a willingness to learn. The assessments in each module are designed to test your knowledge of the subject matter. Completing the assessments confirms that you are ready to move on to the next module."
     },
+
     {
-      "id": "6357d00a9ea009416fad4495",
-      "category_id": "03",
+      "_id": "6357eea4d017e81522981c4f",
+      "category_id": "01",
       "index": 2,
-      "photoURL": "http://placehold.it/32x32",
-      "name": "Bootstrap ",
-      "total_view": 300,
-      "title": " Bootstrap ,  It is the popular framework of css ",
-      "discription": "<ReferenceError: anything is not defined>"
+      "photoURL": " https://iexperto.io/wp-content/uploads/2020/08/Responsive-Web-Design.jpeg",
+      "name": " Web Desgin ",
+      "title": " Responsive Webdesign ",
+      "discription": " The use of mobile devices to surf the web continues to grow at an astronomical pace, and these devices are often constrained by display size and require a different approach to how content is laid out on the screen.Responsive web design, originally defined by Ethan Marcotte in A List Apart, responds to the needs of the users and the devices they're using. The layout changes based on the size and capabilities of the device. For example, on a phone users would see content shown in a single column view; a tablet might show the same content in two columns."
     },
     {
-      "id": "6357d00a429d337de9fe7d60",
-      "category_id": "04",
+      "_id": "6357eea46839448f576b4c27",
+      "category_id": "01",
       "index": 3,
-      "photoURL": "http://placehold.it/32x32",
-      "name": "Tailwind Css  ",
-      "total_view": 340,
-      "title": "Tailwind Css : It is  also famous framework of css  ",
-      "discription": "<ReferenceError: anything is not defi"
+      "photoURL": "https://www.code-brew.com/wp-content/uploads/2019/11/78985813_2284798571813464_812213693319217152_n-1.jpg",
+      "name": "Web Design  ",
+      "title": " Dynamic Webdesign ",
+      "discription": " A dynamic website is made up of a bunch of different pieces that come together and form a page. Unlike static sites, dynamic sites use server technologies, like PHP or JavaScript, for web development. These computer codes automatically create HTML and CSS “on the fly.” This means that when someone loads a dynamic web page, all the parts that make up that page will pull together and that is what is viewed. When you want one part of the site to be updated, such as the header or footer, you can change that one piece and it will appear across every page that contains that piece. So, overall, dynamic sites may be more costly and time consuming to create at the forefront, but they can make up for it a hundred times over down the road. "
     },
     {
-      "id": "6357d00af83922c88035e756",
-      "category_id": "05",
+      "_id": "6357eea4d1e76cb37c6e1e5a",
+      "category_id": "03",
       "index": 4,
-      "photoURL": "http://placehold.it/32x32",
-      "name": "Javascript ",
-      "total_view": 220,
-      "title": " Learn javascript Language , It is popular language for front end and backend ",
-      "discription": "<ReferenceError: anything is not defined>"
+      "photoURL": " https://www.msfttechdays.com/wp-content/uploads/2021/07/Software-Development.jpg",
+      "name": " Softwere Development ",
+      "title": " Android, ios Softwere Development  ",
+      "discription": "People both inside and outside IT often ask what is software development. It is a process to create computer software using one or more specific programming languages that provides functionality to address particular business or personal objectives. The development of software is usually a planned initiative with a number of steps and stages that result in the creation of operational software. Hence a good definition is: “a process with a set of activities that create computer software products, including their design, development, testing, and deployment.” Software itself is a set of instructions or programs that tell a computer what to do. It is independent of hardware and makes computers programmable. "
     },
     {
-      "id": "6357d00ac81a0c502a281902",
-      "category_id": "06",
+      "_id": "6357eea4c621830f754865a1",
+      "category_id": "02",
       "index": 5,
-      "photoURL": "http://placehold.it/32x32",
-      "name": "React js",
-      "total_view": 450,
-      "title": " React js is the most popular for dynamic website  ",
-      "discription": "<ReferenceError: anything is not defined>"
+      "photoURL": "https://licreativetechnologies.com/wp-content/uploads/2020/03/Web-Development.jpg",
+      "name": " Web Development",
+      "title": " Backend Web Development ",
+      "discription": " Back-end development means working on server-side software, which focuses on everything you can't see on a website. Back-end developers ensure the website performs correctly, focusing on databases, back-end logic, application programming interface (APIs), architecture, and servers.On a team, back-end developers collaborate with front-end developers, product managers, principal architects, and website testers to build the structure of a website or mobile app. Back-end developers must be familiar with many kinds of tools and frameworks, including languages such as Python, Java, and Ruby. They make sure the back-end performs quickly and responsively to front-end user requests Back-end."
     },
     {
-      "id": "6357d00ae769f49378bba26e",
-      "category_id": "07 ",
+      "_id": "6357eea4da1143dffdae4bb1",
+      "category_id": "03",
       "index": 6,
-      "photoURL": "http://placehold.it/32x32",
-      "name": "Node js ",
-      "total_view": 440,
-      "title": " Learn node js for backend development  ",
-      "discription": "<ReferenceError: anything is not defined>"
+      "photoURL": "https://web.brainkets.com/uploads/img/service/1648472741-software-development.jpg",
+      "name": "Softwere Development",
+      "title": " Operating Softwere Development  ",
+      "discription": "Software development refers to a set of computer science activities dedicated to the process of creating, designing, deploying and supporting software.Software itself is the set of instructions or programs that tell a computer what to do. It is independent of hardware and makes computers programmable. There are three basic types:System software to provide core functions such as operating systems, disk management, utilities, hardware management and other operational necessities.Programming software to give programmers tools such as text editors, compilers, linkers, debuggers and other tools to create code."
     },
     {
-      "id": "6357d00ac4b6c42382cc83d9",
-      "category_id": "08",
+      "_id": "6357eea4f5818bd8e84a6e54",
+      "category_id": "02",
       "index": 7,
       "photoURL": "http://placehold.it/32x32",
-      "name": "Express Js ",
-      "total_view": 400,
-      "title": " Express js is the frame work of node js  ",
+      "name": " Web Development",
+      "title": " Full Stac Web  Development  ",
+      "discription": " What is a Full Stack Engineer? Full stack technology refers to the entire depth of a computer system application, and full stack developers straddle two separate web development domains: the front end and the back end.The front end includes everything that a client, or site viewer, can see and interact with. By contrast, the back end refers to all the servers, databases, and other internal architecture that drives the application; usually, the end-user never interacts with this realm directly. The easiest way to put the full stack into perspective is to imagine a restaurant. The front end encompasses the well-decorated, comfortable seating areas where visitors enjoy their food. "
+    },
+    {
+      "_id": "6357eea413488bc5497deedc",
+      "category_id": "04",
+      "index": 8,
+      "photoURL": "https://media.istockphoto.com/photos/closeup-of-unrecognizable-designer-sitting-at-desk-with-papers-and-picture-id1192947841?b=1&k=20&m=1192947841&s=170667a&w=0&h=0ZGbZQRv4xmh5goNIyzWtIoeQGxOHAxLc-8r76WRPFE=0",
+      "name": " UI / UX Design  ",
+      "title": " Basic UI/UX Design ",
+      "discription": " User Interface (UI) Design .User interface (UI) design is the process designers use to build interfaces in software or computerized devices, focusing on looks or style. Designers aim to create interfaces which users find easy to use and pleasurable. UI design refers to graphical user interfaces and other forms—e.g., voice-controlled interfaces.Graphical user interfaces (GUIs)—Users interact with visual representations on digital control panels. A computer’s desktop is a GUI.Voice-controlled interfaces (VUIs)—Users interact with these through their voices. Most smart assistants—e.g., Siri on iPhone and Alexa on Amazon devices—are VUIs."
+    },
+    {
+      "_id": "6357eea4c5e590d0f5575df1",
+      "category_id": "05",
+      "index": 9,
+      "photoURL": "http://placehold.it/32x32",
+      "name": "Pope Woodard",
+      "title": "<ReferenceError: anything is not defined>",
       "discription": "<ReferenceError: anything is not defined>"
     },
     {
-      "id": "6357d00a45efa5af333b097b",
-      "category_id": "09 ",
-      "index": 8,
-      "photoURL": "http://placehold.it/32x32",
-      "name": " Firebase ",
-      "total_view": 370,
-      "title": " Firebase is the most imortant for authentication and verify user and control admin etc. ",
-      "discription": "<ReferenceError: anything is not defined>"
+      "_id": "6357eea4c720517e0c394641",
+      "category_id": "04",
+      "index": 10,
+      "photoURL": " https://www.netsolutions.com/insights/wp-content/uploads/2022/01/25-latest-ux-design-trends-for-2022.webp",
+      "name": " UI / UX Design ",
+      "title": "  Advance UI / UX Design  ",
+      "discription": "What is User Experience (UX) Design?. User experience (UX) design is the process design teams use to create products that provide meaningful and relevant experiences to users. UX design involves the design of the entire process of acquiring and integrating the product, including aspects of branding, design, usability and function."
+    },
+
+    {
+      "_id": "6357eea481fc9c9af9d1f0cc",
+      "category_id": " 05 ",
+      "index": 11,
+      "photoURL": "https://www.investopedia.com/thmb/u53_oyyf4KaiSyVSnpUS4beDdxA=/2120x1414/filters:fill(auto,1)/GettyImages-1153397912-5cc5918639d6482b8b1b035413b8c267.jpg",
+      "name": "Digital Marketing ",
+      "title": " SEO , Affiliate Marketing",
+      "discription": " Any marketing that uses electronic devices and can be used by marketing specialists to convey promotional messaging and measure its impact through your customer journey. In practice, digital marketing typically refers to marketing campaigns that appear on a computer, phone, tablet, or other device. It can take many forms, including online video, display ads, search engine marketing, paid social ads and social media posts. Digital marketing is often compared to “traditional marketing” such as magazine ads, billboards, and direct mail. Oddly, television is usually lumped in with traditional marketing. SEO means Search Engine Optimization and is the process used to optimize a website's technical configuration, content relevance and link popularity so its pages can become easily findable, more relevant and popular towards user search queries, and as a consequence, search engines rank them better."
+    },
+    {
+      "_id": "6357eea449974ea2f61f3c91",
+      "category_id": "01",
+      "index": 12,
+      "photoURL": " https://webhostingmedia.net/wp-content/uploads/2016/04/beginners-guide-to-web-design.png",
+      "name": "Web Design  ",
+      "title": " Web Beginner to Advance ",
+      "discription": " Beginner’s Guide to Web Design – Tips & Tricks to Get Started.In this article, I will write about some fundamental principles that underpin the design which you see every day online on different and various websites. You can use this guide either if you are an aspiring web designer, a developer or a client just trying to understand what a good design is.There are fundamental techniques and principles that anyone could adopt to produce better designs. Techniques like layout, typography, imagery, styling, branding, and calls to action and so on are used to create awesome designs."
+    },
+    {
+      "_id": "6357eea41fd6a6d088dabbda",
+      "category_id": "06",
+      "index": 13,
+      "photoURL": " https://sgp1.digitaloceanspaces.com/cosmosgroup/news/1071218_Graphic-Design.jpg",
+      "name": " Graphics Design ",
+      "title": " Defination of Graphics Design ",
+      "discription": " When you think of graphic design, do you think of artistic advertisements? Eye-grabbing graphics on websites? Stunningly arranged spreads in magazines? While these examples certainly fit under the graphic design definition, the term encompasses a lot: posters, infographics, book covers, product labels, logos, business cards, signs, website layouts, mobile apps, software interfaces—the list goes on.So what is graphic design, exactly? Listing these graphic design examples is a good start, but it doesn’t paint the full picture. While covering the details and intricacies of the entire graphic design field might not be possible in one article, this high-level overview will help you better understand this creative career field."
+    },
+    {
+      "_id": "6357eea45cce916998eebd18",
+      "category_id": "05 ",
+      "index": 14,
+      "photoURL": " https://calbizjournal.com/wp-content/uploads/2022/02/social-media-tips.png",
+      "name": " Digital Marketing ",
+      "title": " Social Media Marketing,Content Marketing  ",
+      "discription": " What Is Social Media Marketing (SMM)? Social media marketing (SMM) (also known as digital marketing and e-marketing) is the use of social media—the platforms on which users build social networks and share information—to build a company's brand, increase sales, and drive website traffic. In addition to providing companies with a way to engage with existing customers and reach new ones, social media marketing (SMM) has purpose-built data analytics that allow marketers to track the success of their efforts and identify even more ways to engage.The power of social media marketing (SMM) is driven by the unparalleled capacity of social media in three core marketing areas: connection, interaction, and customer data."
+    },
+    {
+      "_id": "6357eea484398385faff297e",
+      "category_id": "06 ",
+      "index": 15,
+      "photoURL": " https://design.umn.edu/sites/design.umn.edu/files/2020-11/s18_ides_studio046.jpeg",
+      "name": " Graphics Design ",
+      "title": " Product Design, Branding Design ,Animation Design ",
+      "discription": " The definition of product design describes the process of imagining, creating, and iterating products that solve users’ problems or address specific needs in a given market.The key to successful product design is understanding the end-user customer, the person for whom the product is being created. Product designers attempt to solve real problems for real people by using empathy and knowledge of their prospective customers’ habits, behaviors, frustrations, needs, and wants.Good product design practices thread themselves throughout the entire product lifecycle. "
+    },
+    {
+      "_id": "6357eea4c6e624c4f4268596",
+      "category_id": "07 ",
+      "index": 16,
+      "photoURL": " https://thumbs.dreamstime.com/z/finance-financial-business-concept-file-office-83647766.jpg",
+      "name": "Financial Management ",
+      "title": "Working Capital Management ",
+      "discription": "Finance Planning: Learn and evaluate an individual’s current and future financial needs and requirements thru various useful and knowledgeable articles.An organization requires financial management for various activities. For examples: approving loans or credit lines, hiring employees, building customer’s relationship, creating company’s credit rating, adjustment in budgets, managing cash inflow and outflow activities, risk management and more.One of the essential primary types of financial management decision is to build and increase the valuation of an organization. Here we will see the what are the primary three types of financial management decisions and examples where all are working towards achieving common goal."
+    },
+    {
+      "_id": "6357eea47d78ea5e530c711d",
+      "category_id": " 07 ",
+      "index": 17,
+      "photoURL": "https://thumbs.dreamstime.com/z/graphs-file-folder-label-financial-management-business-concept-52739835.jpg",
+      "name": " Financial Management ",
+      "title": " Capital Structure Management ",
+      "discription": " In corporate finance, capital structure is the manner in which a company finances through a mix of debt or equity securities. Debt financing comes as bond issues, while equity comes from retained earnings or as a stock. Short-term debt financing, for example, working capital necessities is likewise viewed as a major aspect of the capital structure.Working capital management of an organization refers to managing bookkeeping methodology and accounting strategies intended to keep track of current assets, current liabilities, cash flow, inventory turnover ratio, working capital ratio and much more.Financial planning is the undertaking of deciding regarding how a business will accomplish its key objectives and targets. More often an organization makes a Financial Plan after the vision and mission have been set. The Financial Plan describes each and every activities and exercises needed to accomplish these goals."
+    },
+    {
+      "_id": "6357eea4164c1b5413c34884",
+      "category_id": " 08",
+      "index": 18,
+      "photoURL": " https://kinsta.com/wp-content/uploads/2018/02/what-is-wordpress.jpg",
+      "name": " Wordpress Development ",
+      "title": " Wordpress FronEnd Development,Themse development ",
+      "discription": " You might be asking yourself, “What is WordPress?” “What is WordPress used for?” WordPress powers nearly a third of the world’s websites. With tools for everyone from personal bloggers to large corporations, this powerful site builder and content management system (cms) aims to make it possible for anyone to create an online presence in minutes. The WordPress platform is flexible, scalable and always free to use. Here’s a look at some of the key features of the world’s most popular site building software.WordPress.org, the company that makes WordPress available to anyone who wants to create a website or blog"
+    },
+    {
+      "_id": "6357eea4bf80c778f784a012",
+      "category_id": "08 ",
+      "index": 19,
+      "photoURL": "https://olineit.com/wp-content/uploads/2019/05/c3.jpg",
+      "name": " Wordpress Development ",
+      "title": " Wordpress backend & Server Site ,database Development",
+      "discription": " It allows for customization of the site functionality unique to that Theme. It allows for quick changes of the visual design and layout of a WordPress site. It removes the need for a typical WordPress site owner to have to learn CSS, HTML, and PHP in order to have a great-looking website.This article is about developing WordPress Themes. If you wish to learn more about how to install and use Themes, review Using Themes. This topic differs from Using Themes because it discusses the technical aspects of writing code to build your own Themes rather than how to activate Themes or where to obtain new Themes. "
     }
   ]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
