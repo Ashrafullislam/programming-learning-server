@@ -27,7 +27,7 @@ app.get('/course-details/:id', (req,res) => {
   res.send(selectedCourse);
 })
 // get data same category by category_id 
-app.get('/category/:id', (req,res) => {
+app.get('/category-course/:id', (req,res) => {
     const reqId = req.params.id ;
     const cateoryCourse =  courses.filter( course => course.category_id === reqId)
     res.send(cateoryCourse)
