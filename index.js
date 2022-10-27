@@ -5,7 +5,7 @@ const port = process.env.PORT || 5000  ;
 app.use(cors())
 
 
-const category = require('./data/category.json')
+const category = require('./data/categories_course.json')
 const courses = require ('./data/courses.json')
 app.get('/', (req,res) => {
     res.send('Programming Learn api server running ')
